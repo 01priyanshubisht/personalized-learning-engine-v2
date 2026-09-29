@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+
+# Local uploaded documents
+data/documents/*
+!data/documents/.gitkeep
+
+# Test/cache files
+.pytest_cache/
